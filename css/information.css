@@ -4,7 +4,7 @@
 
 .article {
     min-height: 1000px;
-    background-color: white;
+    background-image: url(../img/background_cracks.png);
     margin-top: 60px;
     margin-left: 50px;
     margin-bottom: 80px;
@@ -24,7 +24,7 @@
 .articleDescription {
     font-size: 16px;
     padding: 0px 20px 10px 20px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Monocraft;
 }
 
 .extra {

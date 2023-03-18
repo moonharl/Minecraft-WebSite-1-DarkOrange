@@ -6,7 +6,7 @@
 
 html, body {
     height: 100%;
-    background-color: #2b2b2b;
+    background-image: url(../img/background_crack.png);
 }
 
 .container {
@@ -19,7 +19,7 @@ html, body {
 }
 
 .bannerTop {
-    background-image: url(../img/loadingOrNot.png);
+    background-image: url(../img/loading.png);
     width: 100%;
     height: 380px;
     background-repeat: no-repeat;
@@ -54,7 +54,7 @@ html, body {
     font-size: 16px;
     font-family: 'Play', sans-serif;
     text-align: center;
-    background-color: darkorange;
+    background-color: black;
     padding: 4px;
     color: black;
     font-weight: bolder;
@@ -149,7 +149,7 @@ html, body {
 
 .hg1 {
     border-right: #2b2b2b solid 2.5px;
-    background-image: url(../img/loadingOrNot.png);
+    background-image: url(../img/loading.png);
     float: left;
     height: 250px;
     width: 50%;
@@ -161,7 +161,7 @@ html, body {
 
 .hg2 {
     border-left: #2b2b2b solid 2.5px;
-    background-image: url(../img/loadingOrNot.png);
+    background-image: url(../img/loading.png);
     float: right;
     height: 250px;
     width: 50%;
@@ -173,7 +173,7 @@ html, body {
 
 .hg3 {
     border-top: #2b2b2b solid 5px;
-    background-image: url(../img/loadingOrNot.png);
+    background-image: url(../img/loading.png);
     height: 250px;
     background-repeat: no-repeat;
     background-position: center;
@@ -230,7 +230,7 @@ li {
 }
 
 .comments {
-    background-color: orange;
+    background-color: black;
 }
 
 .co {
@@ -240,7 +240,7 @@ li {
     text-align: center;
     padding: 50px;
     padding-top: 30px;
-    background-color: orange;
+    background-color: black;
 }
 
 .co img {
@@ -269,7 +269,7 @@ li {
 }
 
 .buttonsSocial {
-    background-image: url(../img/loadingOrNot.png);
+    background-image: url(../img/loading.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
@@ -308,7 +308,7 @@ li {
 
 footer {
     text-align: center;
-    background-color: darkcyan;
+    background-color: black;
     color: white;
     font-size: 15px;
     font-family: 'Play', sans-serif;

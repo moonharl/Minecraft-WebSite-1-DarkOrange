@@ -1,5 +1,5 @@
 * {
-    font-family: 'Play', sans-serif;
+    font-family: Monocraft;
 }
 
 .newsArticle {
@@ -25,7 +25,7 @@
 .articleDescription {
     font-size: 16px;
     padding: 0px 20px 10px 20px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Monocraft;
     text-align: center;
 }
 

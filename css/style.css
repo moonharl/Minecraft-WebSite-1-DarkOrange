@@ -6,7 +6,7 @@
 
 html, body {
     height: 100%;
-    background-image: url(../img/background_cracks.png);
+    background-image: url(../img/loading.png);
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -265,16 +265,16 @@ li {
     color: white;
     font-weight: bold;
     font-size: 20px;
-    font-family: 'Play', sans-serif;
+    font-family: Monocraft;
     text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
 }
 
 .cotext {
     padding-top: 10px;
-    color: black;
+    color: white;
     font-weight: bold;
     font-size: 17px;
-    font-family: 'Play', sans-serif;
+    font-family: Monocraft;
 }
 
 .buttonsSocial {

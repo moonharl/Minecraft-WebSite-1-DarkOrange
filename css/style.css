@@ -7,6 +7,10 @@
 html, body {
     height: 100%;
     background-image: url(../img/background_cracks.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .container {
@@ -34,7 +38,7 @@ html, body {
 }
 
 .logo img {
-    height: 260px;
+    height: 100px;
 }
 
 .bannerTop a {
@@ -231,6 +235,11 @@ li {
 
 .comments {
     background-image: url(../img/background_cracks.png);
+    width: 100%;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .co {

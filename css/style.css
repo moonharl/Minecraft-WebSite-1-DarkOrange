@@ -6,7 +6,7 @@
 
 html, body {
     height: 100%;
-    background-image: url(../img/background_crack.png);
+    background-image: url(../img/background_cracks.png);
 }
 
 .container {
@@ -230,7 +230,7 @@ li {
 }
 
 .comments {
-    background-color: black;
+    background-image: url(../img/background_cracks.png);
 }
 
 .co {

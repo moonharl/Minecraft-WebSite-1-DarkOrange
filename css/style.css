@@ -90,7 +90,7 @@ html, body {
 }
 
 .menu {
-    margin-top: -90px;
+    margin-top: -60px;
 }
 
 .menu ul {
@@ -100,12 +100,12 @@ html, body {
 
 .menu li {
     display: inline;
-    padding: 50px;
+    padding: 40px;
 }
 
 .menu a {
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     color: rgb(255, 255, 255);
     font-family: Monocraft;
 }

@@ -1,5 +1,5 @@
 * {
-    font-family: Monocraft;
+    font-family: Minecrafter;
 }
 
 .article {
@@ -63,7 +63,7 @@
     display: none;
     padding-top: 20px;
     font-size: 14px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Monocraft;
 }
 
 .barPurple {

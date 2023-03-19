@@ -3,14 +3,14 @@ window.onload = function () {
     // GENERAL CONFIGS v0.1
 
     //Site title
-    let title = ' ';
+    let title = 'Empire Realm';
 
     //Server Ip (counter)
     var serverIp = 'play.foxcraft.net';
     var serverIpPort = 25565;
 
     //Banner image (url) 
-    var bannerTop = 'https://i.imgur.com/k0MtSCb.png';
+    var bannerTop = ' ';
 
     //Logo Realm (url)
     var logoRealm = 'https://i.imgur.com/OkfQb7q.png';

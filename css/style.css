@@ -52,7 +52,7 @@ html, body {
 
 .serverIp {
     font-size: 16px;
-    font-family: 'Play', sans-serif;
+    font-family: Monocraft;
     text-align: center;
     background-color: black;
     padding: 4px;
@@ -67,17 +67,17 @@ html, body {
 
 .playersOn {
     font-weight: bold;
-    color: blue;
+    color: black;
 }
 
 .playersMax {
     font-weight: bold;
-    color: blue;
+    color: black;
 }
 
 .serverIpText {
     font-weight: bold;
-    color: white;
+    color: black;
 }
 
 .bar {

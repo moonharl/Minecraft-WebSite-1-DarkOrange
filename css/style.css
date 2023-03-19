@@ -18,6 +18,11 @@ html, body {
     src: url(../font/Monocraft.ttf);
 }
 
+@font-face {
+    font-family: Minecrafter;
+    src: url(../font/Minecrafter.ttf);
+}
+
 .bannerTop {
     background-color: black;
     width: 100%;

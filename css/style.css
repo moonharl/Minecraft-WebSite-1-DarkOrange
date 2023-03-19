@@ -125,6 +125,18 @@ html, body {
     background-image: url(../img/break_up.png);
 }
 
+.logoRealm {
+    border-right: #2b2b2b solid 2.5px;
+    background-image: url(../img/logo_realm.png);
+    float: left;
+    height: 250px;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 15px;
+}
+
 .homeGallery {
     margin: 50px;
     margin-top: 70px;

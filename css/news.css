@@ -64,6 +64,8 @@
 
 .newsDescription {
     padding: 20px;
+    color: rgb(128, 127, 126);
+    font-family: Monocraft;
 }
 
 .newsDescription img {
@@ -84,7 +86,7 @@
     padding: 7px;
     margin: 3px;
     background-color: rgb(100, 235, 28);
-    border: solid 3px white;
+    border: solid 2px black;
     border-radius: 2px;
 }
 

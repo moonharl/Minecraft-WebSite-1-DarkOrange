@@ -116,12 +116,12 @@ html, body {
 }
 
 .breakUp {
-    height: 16px;
+    height: 64px;
     background-image: url(../img/breakUp.png);
 }
 
 .breakDown {
-    height: 16px;
+    height: 64px;
     background-image: url(../img/breakDown.png);
 }
 
@@ -262,7 +262,7 @@ li {
     text-align: center;
     padding: 50px;
     padding-top: 30px;
-    background-color: black;
+    background-color: white;
 }
 
 .co img {
@@ -275,7 +275,7 @@ li {
 }
 
 .cotitle {
-    color: white;
+    color: black;
     font-weight: bold;
     font-size: 20px;
     font-family: Monocraft;
@@ -284,7 +284,7 @@ li {
 
 .cotext {
     padding-top: 10px;
-    color: white;
+    color: black;
     font-weight: bold;
     font-size: 17px;
     font-family: Monocraft;

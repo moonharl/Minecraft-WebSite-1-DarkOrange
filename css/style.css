@@ -97,7 +97,8 @@ html, body {
 }
 
 .menu {
-    padding-top: -50px;
+    padding-top: 3vh;
+    margin-top: -10px;
 }
 
 .menu ul {

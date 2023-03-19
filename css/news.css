@@ -63,6 +63,7 @@
 }
 
 .newsDescription {
+    margin-top: 8px;
     padding: 20px;
     color: rgb(128, 127, 126);
     font-family: Monocraft;

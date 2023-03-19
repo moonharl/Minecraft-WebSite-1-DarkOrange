@@ -5,22 +5,22 @@
     margin-left: 20%;
     margin-right: 20%;
     margin-bottom: 40px;
-    border-radius: 15px;
+    border-radius: 30px;
     width: 60%;
-    border-top: solid 5px rgb(212, 117, 0);
-    border-bottom: solid 5px rgb(212, 117, 0);
+    border-top: solid 10px rgb(128, 127, 126);
+    border-bottom: solid 10px rgb(128, 127, 126);
 }
 
 .news {
     margin: 20px;
     margin-top: 35px;
-    border-radius: 15px;
+    border-radius: 30px;
     background-color: rgb(243, 243, 243);
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .newsIcon {
-    float: right;
+    float: left;
     margin-right: 10px;
 }
 
@@ -34,9 +34,9 @@
     padding: 20px;
     padding-top: 13px;
     padding-bottom: 5px;
-    background-color: rgb(236, 130, 0);
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
+    background-color: rgb(128, 127, 126);
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
 }
 
 .newsTitle h1 {
@@ -66,9 +66,9 @@
     display: inline;
     padding: 7px;
     margin: 3px;
-    background-color: chocolate;
-    border: solid 2px black;
-    border-radius: 5px;
+    background-color: rgb(100, 235, 28);
+    border: solid 3px white;
+    border-radius: 2px;
 }
 
 .nextPage a {

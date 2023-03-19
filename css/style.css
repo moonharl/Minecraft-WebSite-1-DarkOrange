@@ -52,20 +52,21 @@ html, body {
     font-family: Monocraft;
     display: flex;
     justify-content: center;
-    margin-top: -173px;
+    margin-top: -150px;
 }
 
 .serverIp {
-    font-size: 16px;
+    font-size: 0px;
     font-family: Monocraft;
     text-align: center;
-    background-color: black;
+    background-image: url(../img/logo_realm.png);
     padding: 4px;
     color: black;
     font-weight: bolder;
 }
 
 .serverStatus {
+    font-size: 0px;
     font-weight: bold;
 
 }

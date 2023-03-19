@@ -3,7 +3,7 @@ window.onload = function () {
     // GENERAL CONFIGS v0.1
 
     //Site title
-    let title = 'Empire Realm';
+    let title = ' ';
 
     //Server Ip (counter)
     var serverIp = 'play.foxcraft.net';

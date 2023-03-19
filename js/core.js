@@ -44,10 +44,10 @@ window.onload = function () {
     //--------------------------------------------
 
     //Social media links / banner (url)
-    var urlFacebook = "https://github.com/Tiagox42";
-    var urlTwiiter = "https://github.com/Tiagox42";
-    var urlInstagram = "https://www.instagram.com/tdantas42/";
-    var urlYoutube = "https://www.youtube.com/user/Tg42x/videos";
+    var urlDiscord = "https://github.com/Tiagox42";
+    var urlTwitter = "https://twitter.com/EmpireRealms";
+    var urlInstagram = "https://www.instagram.com/EmpireRealms/";
+    var urlYoutube = "https://www.youtube.com/user/EmpireRealms/videos";
     var discordInvite = "https://github.com/Tiagox42";
 
 

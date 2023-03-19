@@ -7,10 +7,6 @@
 html, body {
     height: 100%;
     background-image: url(../img/loading.png);
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 }
 
 .container {
@@ -119,9 +115,14 @@ html, body {
     color: white;
 }
 
-.barTwo {
-    height: 5px;
-    background-color: rgb(168, 93, 0);
+.breakUp {
+    height: 16px;
+    background-image: url(../img/break_up.png);
+}
+
+.breakDown {
+    height: 16px;
+    background-image: url(../img/break_up.png);
 }
 
 .homeGallery {

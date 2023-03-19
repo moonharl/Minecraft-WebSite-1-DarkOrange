@@ -116,12 +116,12 @@ html, body {
 }
 
 .breakUp {
-    height: 100%;
+    height: 64px;
     background-image: url(../img/breakUp.png);
 }
 
 .breakDown {
-    height: 100%;
+    height: 64px;
     background-image: url(../img/breakDown.png);
 }
 
@@ -324,7 +324,7 @@ li {
 }
 
 .butIconDiscord img {
-    width: 60px;
+    width: 64px;
     float: right;
 }
 
@@ -544,7 +544,7 @@ footer p {
     }
 
     .comments{
-        display: none;
+        display: inline;
     }
 
     .butIconDiscord img {

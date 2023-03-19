@@ -19,12 +19,7 @@ html, body {
 }
 
 .bannerTop {
-    background-image: url(../img/loading.png);
-    width: 100%;
-    height: 380px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background-color: white;
 }
 
 .logo {
@@ -544,7 +539,7 @@ footer p {
     }
 
     .comments{
-        display: inline;
+        display: block;
     }
 
     .butIconDiscord img {

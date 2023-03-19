@@ -12,6 +12,9 @@ window.onload = function () {
     //Banner image (url) 
     var bannerTop = 'https://i.imgur.com/k0MtSCb.png';
 
+    //Logo Realm (url)
+    var logoRealm = 'https://i.imgur.com/OkfQb7q.png';
+
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
     var text_Gfirst = 'Special Items';

@@ -34,12 +34,13 @@ html, body {
 
 .logo {
     padding-top: 3vh;
+    margin-top: -10px;
     display: flex;
     justify-content: center;
 }
 
 .logo img {
-    height: 50px;
+    height: 55px;
 }
 
 .bannerTop a {
@@ -96,28 +97,28 @@ html, body {
 }
 
 .menu {
-    margin-top: -60px;
+    margin-top: -10px;
 }
 
 .menu ul {
-    text-align: center;
+    text-align: left;
     padding: 20px;
 }
 
 .menu li {
     display: inline;
-    padding: 40px;
+    padding: 30px;
 }
 
 .menu a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 10px;
     color: rgb(255, 255, 255);
     font-family: Monocraft;
 }
 
 .menu a:hover {
-    color: rgb(86, 173, 64);
+    color: rgb(149, 240, 101);
 }
 
 .breakUp {

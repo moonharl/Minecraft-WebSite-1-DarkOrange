@@ -6,8 +6,8 @@ window.onload = function () {
     let title = ' ';
 
     //Server Ip (counter)
-    var serverIp = 'play.foxcraft.net';
-    var serverIpPort = 25565;
+    var serverIp = ' ';
+    var serverIpPort = 0;
 
     //Banner image (url) 
     var bannerTop = ' ';

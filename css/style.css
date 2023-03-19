@@ -309,8 +309,8 @@ li {
 }
 
 .butIcon {
-    float: right;
-    margin-right: 80px;
+    float: left;
+    margin-right: 180px;
 }
 
 .butIcon img {

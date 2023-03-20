@@ -2,13 +2,6 @@ window.onload = function () {
 
     // GENERAL CONFIGS v0.1
 
-    //Site title
-    let title = ' ';
-
-    //Server Ip (counter)
-    var serverIp = ' ';
-    var serverIpPort = 0;
-
     //Banner image (url) 
     var bannerTop = ' ';
 

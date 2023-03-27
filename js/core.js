@@ -17,13 +17,13 @@ window.onload = function () {
 
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
-    var text_Gfirst = 'Special Items';
+    var text_Gfirst = 'Itens';
     var image_Gfirst = 'https://i.imgur.com/OkfQb7q.png';
     //Second text / image (url)
-    var text_Gsecond = 'Economy'
+    var text_Gsecond = 'Economia'
     var image_Gsecond = 'https://i.imgur.com/XU4KHgV.png';
     //Third text / image (url)
-    var text_Gtrird = 'Great Community'
+    var text_Gtrird = 'Comunidade'
     var image_Gtrird = 'https://i.imgur.com/7JP74WT.png';
     //--------------------------------------------
 
@@ -44,10 +44,10 @@ window.onload = function () {
     //--------------------------------------------
 
     //Social media links / banner (url)
-    var urlDiscord = "https://github.com/Tiagox42";
-    var urlTwitter = "https://twitter.com/EmpireRealms";
-    var urlInstagram = "https://www.instagram.com/EmpireRealms/";
-    var urlYoutube = "https://www.youtube.com/user/EmpireRealms/videos";
+    var urlDiscord = "https://discord.gg/z9WEvXWf9V";
+    var urlTwitter = "https://twitter.com/Empire_Realm";
+    var urlInstagram = "https://instagram.com/moonharl";
+    var urlYoutube = "https://youtube.com/user/EmpireRealms/videos";
     var discordInvite = "https://github.com/Tiagox42";
 
 

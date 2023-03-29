@@ -265,7 +265,8 @@ li {
 }
 
 .co {
-    float: left;
+    display: flex; 
+    justify-content: center;
     width: 30%;
     height: 350px;
     text-align: center;

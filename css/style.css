@@ -276,6 +276,7 @@ li {
 
 .co img {
     width: 64px;
+    display: inline;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -290,7 +291,7 @@ li {
 }
 
 .cotext {
-    padding-top: 5px;
+    padding-top: 10px;
     color: black;
     font-size: 15px;
     font-family: Monocraft;

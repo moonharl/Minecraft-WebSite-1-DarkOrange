@@ -266,6 +266,7 @@ li {
 
 .co {
     display: inline;
+    float: center;
     width: 50%;
     height: 200px;
     text-align: center;

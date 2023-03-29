@@ -553,7 +553,8 @@ footer p {
     }
 
     .comments{
-        display: inline;
+        display: flex; 
+        justify-content: center;
         font-size: 10px;
     }
 

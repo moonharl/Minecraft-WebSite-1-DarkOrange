@@ -207,7 +207,7 @@ html, body {
 }
 
 .middleSection {
-    background-color: white;
+    background-color: black;
     height: 100%;
     padding-left: 100px;
     padding-right: 100px;
@@ -265,8 +265,7 @@ li {
 }
 
 .co {
-    display: flex; 
-    justify-content: space-around;
+    display: inline;
     width: 50%;
     height: 200px;
     text-align: center;

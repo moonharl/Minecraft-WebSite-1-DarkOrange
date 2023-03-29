@@ -265,16 +265,16 @@ li {
 
 .co {
     float: left;
-    width: 33.33%;
+    width: 30%;
     height: 250px;
     text-align: center;
-    padding: 50px;
+    padding: 30px;
     padding-top: 30px;
     background-color: white;
 }
 
 .co img {
-    width: 80px;
+    width: 64px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -287,14 +287,13 @@ li {
     font-weight: bold;
     font-size: 20px;
     font-family: Monocraft;
-    text-shadow: 1px 0 0 #212121, -1px 0 0 #212121, 0 1px 0 #212121, 0 -1px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
 }
 
 .cotext {
     padding-top: 10px;
     color: black;
     font-weight: bold;
-    font-size: 17px;
+    font-size: 15px;
     font-family: Monocraft;
 }
 

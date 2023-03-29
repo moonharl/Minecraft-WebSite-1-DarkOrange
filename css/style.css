@@ -266,7 +266,7 @@ li {
 
 .co {
     display: flex; 
-    justify-content: center;
+    justify-content: space-around;
     width: 50%;
     height: 200px;
     text-align: center;
@@ -291,9 +291,7 @@ li {
 }
 
 .cotext {
-    display: flex; 
-    justify-content: center;
-    padding-top: 10px;
+    padding-top: 5px;
     color: black;
     font-size: 15px;
     font-family: Monocraft;

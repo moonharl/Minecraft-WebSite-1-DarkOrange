@@ -307,6 +307,8 @@ li {
 }
 
 .butBox {
+    display: flex; 
+    justify-content: center;
     padding: 65px;
 }
 

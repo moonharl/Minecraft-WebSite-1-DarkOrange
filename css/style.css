@@ -266,7 +266,6 @@ li {
 
 .co {
     display: inline;
-    float: center;
     width: 50%;
     height: 200px;
     text-align: center;
@@ -278,6 +277,7 @@ li {
 .co img {
     width: 64px;
     display: inline;
+    float: center;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;

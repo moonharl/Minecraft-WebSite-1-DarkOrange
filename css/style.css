@@ -60,7 +60,6 @@ html, body {
     font-size: 0px;
     font-family: Monocraft;
     text-align: center;
-    background-image: url(../img/logo_realm.png);
     padding: 4px;
     color: black;
     font-weight: bolder;
@@ -135,7 +134,7 @@ html, body {
 
 .logoRealm {
     border-right: #2b2b2b solid 2.5px;
-    background-image: url(../img/logo_realm.png);
+    background-image: url(../img/none.png);
     float: left;
     height: 250px;
     width: 50%;

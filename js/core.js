@@ -24,11 +24,11 @@ window.onload = function () {
     var image_Gsecond = 'https://i.imgur.com/XU4KHgV.png';
     //Third text / image (url)
     var text_Gtrird = 'Comunidade'
-    var image_Gtrird = 'https://i.imgur.com/7JP74WT.png';
+    var image_Gtrird = 'https://i.imgur.com/iY3lhjl.jpeg';
     //--------------------------------------------
 
     //Type Server (FullPVP, MiniGame, Survival, and others...)
-    var typeServer = 'Full PVP';
+    var typeServer = 'Aventura';
 
     //--------------- Home Gallery ---------------
     // Image automatically changes according to the name :)

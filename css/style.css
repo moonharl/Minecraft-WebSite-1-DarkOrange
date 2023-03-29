@@ -291,6 +291,8 @@ li {
 }
 
 .cotext {
+    display: flex; 
+    justify-content: center;
     padding-top: 10px;
     color: black;
     font-size: 15px;

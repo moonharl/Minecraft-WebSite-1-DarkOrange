@@ -209,12 +209,13 @@ html, body {
 
 .middleSection {
     background-color: white;
+    height: 100%;
     padding-left: 100px;
     padding-right: 100px;
 }
 
 .bannermiddle {
-    height: 400px;
+    height: 100%;
     padding-top: 40px;
     width: 50%;
     float: left;

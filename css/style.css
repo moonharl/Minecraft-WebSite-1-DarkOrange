@@ -226,8 +226,9 @@ html, body {
 
 .whiteBoxInside {
     border: #ffffff solid 4px;
-    background-image: url(../img/loading.png);
-    float: center;
+    background-image: url(../img/worldBg.jpg);
+    margin: auto;
+    padding: 10px;
     height: 250px;
     width: 50%;
     background-repeat: no-repeat;

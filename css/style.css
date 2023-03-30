@@ -217,6 +217,20 @@ html, body {
     padding-right: 100px;
 }
 
+.homeTitle {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Monocraft;
+}
+
+.homeText {
+    padding-top: 10px;
+    color: white;
+    font-size: 15px;
+    font-family: Monocraft;
+}
+
 .middleSection {
     background-color: black;
     height: 100%;

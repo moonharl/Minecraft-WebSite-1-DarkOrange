@@ -146,14 +146,7 @@ html, body {
     width: 60px;
     background-position: center;
     background-size: cover;
-}
-
-.mineText {
-    color: white;
-    font-family: Monocraft;
-    font-size: 15px;
-    text-align: center;
-}   
+}  
 
 .breakUp {
     height: 128px;
@@ -212,6 +205,18 @@ html, body {
     text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
 }
 
+.whiteBox { 
+     min-height: 500px; 
+     font-family: Monocraft; 
+     background-color: white; 
+     margin-top: 60px; 
+     margin-left: 20%; 
+     margin-right: 20%; 
+     margin-bottom: 40px; 
+     border-radius: 0px; 
+     width: 60%;
+}
+
 .hg1 {
     border: #2b2b2b solid 5px;
     background-image: url(../img/loading.png);
@@ -221,7 +226,6 @@ html, body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    border-top-left-radius: 0px;
 }
 
 .hg2 {
@@ -233,7 +237,6 @@ html, body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    border-top-right-radius: 0px;
 }
 
 .hg3 {
@@ -243,8 +246,6 @@ html, body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
 }
 
 .homeBackground {

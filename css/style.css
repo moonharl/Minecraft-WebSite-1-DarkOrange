@@ -217,6 +217,14 @@ html, body {
      width: 60%;
 }
 
+.whiteBoxInside { 
+     margin: 20px; 
+     margin-top: 35px; 
+     border-radius: 30px; 
+     background-color: rgb(243, 243, 243); 
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; 
+ }
+
 .textCentered {
     font-size: 20px;
     color: white;

@@ -9,7 +9,7 @@ html, body {
     background-image: url(../img/loading.png);
     background-repeat: repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 128px;
 }
 
 .container {
@@ -126,21 +126,21 @@ html, body {
 }
 
 .breakUp {
-    height: 64px;
+    height: 128px;
     width: 100%;
     background-image: url(../img/breakUp.png);
     background-repeat: repeat;
     background-position: center;   
-    background-size: cover;
+    background-size: 128px;
 }
 
 .breakDown {
-    height: 64px;
+    height: 128px;
     width: 100%;
     background-image: url(../img/breakDown.png);
     background-repeat: repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 128px;
 }
 
 .logoRealm {

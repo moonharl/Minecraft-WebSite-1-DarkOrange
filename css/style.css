@@ -211,7 +211,8 @@ html, body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100%;
+    width: 100%;
+    height: 350px;
     padding-left: 100px;
     padding-right: 100px;
 }
@@ -276,6 +277,7 @@ li {
 
 .co {
     display: inline;
+    float: center;
     width: 50%;
     height: 200px;
     text-align: center;
@@ -323,7 +325,7 @@ li {
 }
 
 .butIcon {
-    float: left;
+    float: center;
     margin-right: 180px;
 }
 

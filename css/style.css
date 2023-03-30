@@ -205,10 +205,38 @@ html, body {
     text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
 }
 
-.whiteBoxInside {
+.whiteBoxImg1 {
     border: #ffffff solid 3px;
     background-image: url(../img/worldBg.jpg);
-    display:block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 250px;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.whiteBoxImg2 {
+    border: #ffffff solid 3px;
+    background-image: url(../img/worldBg.jpg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 250px;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.whiteBoxImg3 {
+    border: #ffffff solid 3px;
+    background-image: url(../img/worldBg.jpg);
+    display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
@@ -224,7 +252,7 @@ html, body {
     background-color: white;
     font-family: Monocraft;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
     color: black;
     padding: 1px;

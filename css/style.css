@@ -146,7 +146,13 @@ html, body {
     width: 80px;
     background-position: center;
     background-size: cover;
-}  
+}
+
+.mineButton:hover {
+    background-color: black;
+    border: black solid 2px;
+    color: white;
+}
 
 .breakUp {
     height: 128px;

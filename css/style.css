@@ -130,6 +130,19 @@ html, body {
     color: rgb(149, 240, 101);
 }
 
+.mineButton {
+    border-top: #64FD20FF solid 5px;
+    border-right: #64FD20FF solid 5px;
+    border-bottom: #268E18FF solid 5px;
+    border-righr: #268E18FF solid 5px;
+    background-color: #36B030FF;
+    float: left;
+    height: 25px;
+    width: 50px;
+    background-position: center;
+    background-size: cover;
+}
+
 .breakUp {
     height: 128px;
     width: 100%;

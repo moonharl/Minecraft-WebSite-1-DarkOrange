@@ -7,6 +7,9 @@
 html, body {
     height: 100%;
     background-image: url(../img/loading.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .container {
@@ -124,12 +127,20 @@ html, body {
 
 .breakUp {
     height: 64px;
+    width: 100%;
     background-image: url(../img/breakUp.png);
+    background-repeat: no-repeat;
+    background-position: center;   
+    background-size: cover;
 }
 
 .breakDown {
     height: 64px;
+    width: 100%;
     background-image: url(../img/breakDown.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .logoRealm {
@@ -172,7 +183,7 @@ html, body {
 }
 
 .hg1 {
-    border-right: #2b2b2b solid 5px;
+    border: #2b2b2b solid 5px;
     background-image: url(../img/loading.png);
     float: left;
     height: 250px;
@@ -184,7 +195,7 @@ html, body {
 }
 
 .hg2 {
-    border-left: #000000 solid 5px;
+    border: #000000 solid 5px;
     background-image: url(../img/loading.png);
     float: right;
     height: 250px;
@@ -196,7 +207,7 @@ html, body {
 }
 
 .hg3 {
-    border-top: #2b2b2b solid 5px;
+    border: #2b2b2b solid 5px;
     background-image: url(../img/loading.png);
     height: 250px;
     background-repeat: no-repeat;
@@ -215,7 +226,7 @@ html, body {
     padding-right: 100px;
     text-align: center;
     width: 100%;
-    height: 250px;
+    height: 500px;
 }
 
 .homeTitle {
@@ -234,7 +245,9 @@ html, body {
 }
 
 .middleSection {
-    background-color: black;
+    background-color: white;
+    background-size: contain;
+    background-position: center;
     height: 100%;
     padding-left: 100px;
     padding-right: 100px;
@@ -255,7 +268,6 @@ html, body {
     font-family: Monocraft;
     font-size: 18px;
     padding: 30px;
-    margin-left: 40vh;
     text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
 }
 

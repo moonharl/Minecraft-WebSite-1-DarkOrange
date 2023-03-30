@@ -419,8 +419,9 @@ li {
 }
 
 .butIcon {
-    float: center;
-    margin-right: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .butIcon img {

@@ -136,15 +136,19 @@ html, body {
     border-bottom: #268E18FF solid 2px;
     border-left: #268E18FF solid 2px;
     background-color: #36B030FF;
-    font-family: Monocraft;
-    font-size: 15px;
-    text-align: center;
     float: left;
     height: 30px;
     width: 60px;
     background-position: center;
     background-size: cover;
 }
+
+.mineText {
+    color: white;
+    font-family: Monocraft;
+    font-size: 15px;
+    text-align: center;
+}   
 
 .breakUp {
     height: 128px;

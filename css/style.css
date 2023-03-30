@@ -250,19 +250,22 @@ html, body {
 }
 
 .middleSection {
-    width: 100%;
+    margin-top: 60px; 
+    margin-left: 20%; 
+    margin-right: 20%; 
+    margin-bottom: 40px; 
+    width: 60%;
+    background-color: white;
     height: 500px;
     padding-left: 100px;
     padding-right: 100px;
 }
 
 .bannermiddle {
-    background-color: white;
     background-size: contain;
     background-position: center;
     height: 100%;
     padding-top: 40px;
-    width: 500px;
     float: center;
     margin-bottom: 40px;
 }

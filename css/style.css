@@ -9,7 +9,7 @@ html, body {
     background-image: url(../img/loading.png);
     background-repeat: repeat;
     background-position: center;
-    background-size: 128px;
+    background-size: 256px;
 }
 
 .container {
@@ -248,7 +248,8 @@ html, body {
     background-color: white;
     background-size: contain;
     background-position: center;
-    width: 60%;
+    float: center;
+    width: 250px;
     height: 100%;
     padding-left: 100px;
     padding-right: 100px;

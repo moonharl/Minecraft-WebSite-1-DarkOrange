@@ -137,10 +137,11 @@ html, body {
     border-left: #268E18FF solid 2px;
     background-color: #36B030FF;
     font-family: Monocraft;
-    font-size: 10px;
+    font-size: 14px;
     text-align: center;
     color: white;
-    float: left;
+    padding: 10px;
+    float: center;
     height: 15px;
     width: 60px;
     background-position: center;

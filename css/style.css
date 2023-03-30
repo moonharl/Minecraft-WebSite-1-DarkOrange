@@ -208,9 +208,11 @@ html, body {
 
 .homeBackground {
     background-image: url(../img/worldBg.jpg);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    padding-left: 100px;
+    padding-right: 100px;
     text-align: center;
     width: 100%;
 }

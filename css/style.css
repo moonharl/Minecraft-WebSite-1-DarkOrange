@@ -245,10 +245,6 @@ html, body {
 }
 
 .middleSection {
-    background-color: white;
-    background-size: contain;
-    background-position: center;
-    float: center;
     width: 250px;
     height: 500px;
     padding-left: 100px;
@@ -256,6 +252,9 @@ html, body {
 }
 
 .bannermiddle {
+    background-color: white;
+    background-size: contain;
+    background-position: center;
     height: 100%;
     padding-top: 40px;
     width: 50%;
@@ -266,11 +265,8 @@ html, body {
 .infoServer {
     text-align: center;
     list-style-position: inside;
-    border-radius: 5px;
     font-family: Monocraft;
     font-size: 18px;
-    padding: 30px;
-    text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
 }
 
 li {

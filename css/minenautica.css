@@ -206,6 +206,10 @@ html, body {
     color: white;
 }
 
+.minenauticaButton a {   
+    text-decoration: none;
+}
+
 .breakUp {
     height: 128px;
     width: 100%;

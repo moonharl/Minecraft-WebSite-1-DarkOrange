@@ -8,7 +8,7 @@
 html, body {
     height: 100%;
     image-rendering: pixelated;
-    background-image: url(../img/minenautica/loadingBlue.png);
+    background-image: url(../img/minenautica/background.png);
     background-repeat: repeat;
     background-position: center;
     background-size: 256px;

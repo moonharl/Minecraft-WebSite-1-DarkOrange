@@ -381,8 +381,8 @@ html, body {
 }
 
 .middleSection {
-    border-top: #ffd56b solid 2px;
-    border-bottom: #e89638 solid 4px;
+    border-top: #ffd56b solid 6px;
+    border-bottom: #e89638 solid 14px;
     display: block;
     margin-top: 60px; 
     margin-left: auto; 

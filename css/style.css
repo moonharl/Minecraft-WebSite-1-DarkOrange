@@ -299,20 +299,20 @@ html, body {
     margin-right: auto;
     padding: 10px;
     height: 350px;
-    width: 70%;
+    width: 80%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .latestNewsText {
-    border: black solid 2px;
     font-size: 20px;
     color: #C7C7C7;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 20px;
     font-family: Minecrafter;
+    text-shadow: 1px 0 0 #212121, -1px 0 0 #212121, 0 1px 0 #212121, 0 -1px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
 }
 
 .latestNewsLogo {
@@ -322,7 +322,7 @@ html, body {
     margin-right: auto;
     padding: 10px;
     height: 50px;
-    width: 30%;
+    width: 80%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

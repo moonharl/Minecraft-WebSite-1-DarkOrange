@@ -414,7 +414,6 @@ li {
 }
 
 .comments {
-    background-color: white;
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
@@ -430,7 +429,6 @@ li {
     text-align: center;
     padding: 20px;
     padding-top: 20px;
-    background-color: white;
 }
 
 .co img {

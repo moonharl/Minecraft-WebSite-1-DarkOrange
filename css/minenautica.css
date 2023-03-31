@@ -184,7 +184,8 @@ html, body {
 }
 
 .minenauticaButton {
-    border: white solid 2px;
+    border-top: #FFDBB0 solid 2px;
+    border-bottom: #B57221 solid 2px;
     background-color: #F5C34E;
     font-family: Monocraft;
     font-size: 14px;
@@ -200,7 +201,8 @@ html, body {
 
 .minenauticaButton:hover {
     background-color: #489CC7;
-    border: #86D5F0 solid 2px;
+    border-top: #86D5F0 solid 2px;
+    border-bottom: #86D5F0 solid 2px;
     color: white;
 }
 

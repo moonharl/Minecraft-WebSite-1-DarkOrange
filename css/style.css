@@ -298,8 +298,8 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    height: 200px;
-    width: 65%;
+    height: 260px;
+    width: 75%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -316,13 +316,13 @@ html, body {
 }
 
 .latestNewsLogo {
-    background-image: url(../img/minecraft.png);
+    background-image: url(../img/ER-logo.png);
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 5px;
-    height: 60px;
-    width: 180px;
+    height: 80px;
+    width: 200px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;

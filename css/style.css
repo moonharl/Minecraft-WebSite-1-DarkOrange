@@ -309,7 +309,7 @@ html, body {
     font-size: 20px;
     color: white;
     text-align: center;
-    padding-top: -10px;
+    padding-top: -15px;
     padding-bottom: 20px;
     font-family: Minecrafter;
     text-shadow: 1px 0 0 #212121, -1px 0 0 #212121, 0 1px 0 #212121, 0 -1px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
@@ -321,8 +321,8 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    height: 50px;
-    width: 70%;
+    height: 70px;
+    width: 120px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -357,8 +357,8 @@ html, body {
 
 .middleSection {
     margin-top: 60px; 
-    margin-left: 20%; 
-    margin-right: 20%; 
+    margin-left: auto; 
+    margin-right: auto;
     margin-bottom: 40px; 
     width: 60%;
     background-color: white;

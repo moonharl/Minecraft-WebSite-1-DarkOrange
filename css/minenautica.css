@@ -87,17 +87,14 @@ html, body {
 }
 
 .minenauticaButton {
-    border-top: #6AC34BFF solid 2px;
-    border-right: #6AC34BFF solid 2px;
-    border-bottom: #2A641AFF solid 2px;
-    border-left: #2A641AFF solid 2px;
-    background-color: #3D8428FF;
+    border-top: white solid 2px;
+    background-color: #F5C34E;
     font-family: Monocraft;
     font-size: 14px;
     text-align: center;
     color: white;
     padding: 1px;
-    float: left;
+    float: middle;
     height: 20px;
     width: 80px;
     background-position: center;
@@ -105,8 +102,8 @@ html, body {
 }
 
 .minenauticaButton:hover {
-    background-color: black;
-    border: black solid 2px;
+    background-color: #489CC7;
+    border: #86D5F0 solid 2px;
     color: white;
 }
 

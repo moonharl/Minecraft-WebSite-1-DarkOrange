@@ -1,4 +1,4 @@
-
+ 
 * {
     margin: 0;
     padding: 0;
@@ -17,9 +17,11 @@ html, body {
 .wrapper span {
     position: fixed;
     bottom: -50px;
-    height: 30px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
     background-image: url(../img/minenautica/bubble.png);
+    background-repet: no-repeat;
+    background-position: center;
     image-rendering: pixelated;
     animation: animate 10s linear infinite;
 }

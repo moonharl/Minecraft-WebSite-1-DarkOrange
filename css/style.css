@@ -157,6 +157,7 @@ html, body {
 .breakUp {
     height: 128px;
     width: 100%;
+    image-rendering: pixelated;
     background-image: url(../img/breakUp.png);
     background-repeat: repeat;
     background-position: center;   
@@ -166,6 +167,7 @@ html, body {
 .breakDown {
     height: 128px;
     width: 100%;
+    image-rendering: pixelated;
     background-image: url(../img/breakDown.png);
     background-repeat: repeat;
     background-position: center;
@@ -449,7 +451,7 @@ li {
 }
 
 .butBox {
-    display: flex; 
+    display: block; 
     justify-content: center;
     margin-left: auto;
     margin-right: auto;

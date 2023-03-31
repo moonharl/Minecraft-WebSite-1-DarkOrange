@@ -381,13 +381,15 @@ html, body {
 }
 
 .middleSection {
+    border-top: #ffd56b solid 2px;
+    border-bottom: #e89638 solid 4px;
     display: block;
     margin-top: 60px; 
     margin-left: auto; 
     margin-right: auto;
     margin-bottom: 40px; 
     width: 60%;
-    background-color: white;
+    background-color: #EBEBEB;
     height: 500px;
 }
 

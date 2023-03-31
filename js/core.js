@@ -28,7 +28,7 @@ window.onload = function () {
     //--------------------------------------------
 
     //Type Server (FullPVP, MiniGame, Survival, and others...)
-    var typeServer = 'Aventura';
+    var versionNumber = '1.10A';
 
     //--------------- Home Gallery ---------------
     // Image automatically changes according to the name :)

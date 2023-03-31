@@ -155,6 +155,10 @@ html, body {
     color: white;
 }
 
+.minenButton a {   
+    text-decoration: none;
+}
+
 .breakUp {
     height: 128px;
     width: 100%;

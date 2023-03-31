@@ -8,7 +8,7 @@
 html, body {
     height: 100%;
     image-rendering: pixelated;
-    background-image: url(../img/waterBg.png);
+    background-image: url(../img/minenautica/loadingBlue.png);
     background-repeat: repeat;
     background-position: center;
     background-size: 256px;
@@ -271,7 +271,7 @@ html, body {
 }
 
 .minenauticaLogo {
-    background-image: url(../img/minenauticaLogo.png);
+    background-image: url(../img/minenautica/minenauticaLogo.png);
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -284,7 +284,7 @@ html, body {
 }
 
 .minenauticaBackground {
-    background-image: url(../img/minenauticaBg.jpg);
+    background-image: url(../img/minenautica/minenauticaBg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

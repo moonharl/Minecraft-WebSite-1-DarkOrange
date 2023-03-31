@@ -139,33 +139,6 @@ html, body {
     border-top-left-radius: 15px;
 }
 
-.homeGallery {
-    margin: 50px;
-    margin-top: 70px;
-    margin-left: 100px;
-    margin-right: 100px;
-}
-
-.textHGtwo {
-    font-size: 30px;
-    color: white;
-    text-align: end;
-    padding-right: 40px;
-    padding-top: 190px;
-    font-family: Monocraft;
-    text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
-}
-
-.textHGone {
-    font-size: 30px;
-    color: white;
-    text-align: end;
-    padding-right: 40px;
-    padding-top: 190px;
-    font-family: Monocraft;
-    text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
-}
-
 .whiteBoxImg1 {
     border: #ffffff solid 3px;
     background-image: url(../img/worldBg.jpg);
@@ -273,8 +246,8 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     padding: 5px;
-    height: 80px;
-    width: 200px;
+    height: 150px;
+    width: 300px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;

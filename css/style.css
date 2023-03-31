@@ -137,10 +137,7 @@ html, body {
     border-bottom: #2A641AFF solid 2px;
     border-left: #2A641AFF solid 2px;
     background-color: #3D8428FF;
-    font-family: Monocraft;
-    font-size: 14px;
     text-align: center;
-    color: white;
     padding: 1px;
     float: left;
     height: 20px;
@@ -157,6 +154,9 @@ html, body {
 
 .mineButton a {   
     text-decoration: none;
+    font-family: Monocraft;
+    font-size: 14px;
+    color: white;
 }
 
 .breakUp {

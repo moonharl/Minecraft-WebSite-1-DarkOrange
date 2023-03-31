@@ -180,7 +180,7 @@ html, body {
 }
 
 .minenauticaButton {
-    border-top: white solid 2px;
+    border: white solid 2px;
     background-color: #F5C34E;
     font-family: Monocraft;
     font-size: 14px;
@@ -334,12 +334,13 @@ html, body {
 }
 
 .minenauticaLogo {
+    border: white solid 1px;
     background-image: url(../img/minenautica/minenauticaLogo.png);
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 5px;
-    height: 150px;
+    height: 100%;
     width: 300px;
     background-repeat: no-repeat;
     background-position: center;

@@ -299,7 +299,7 @@ html, body {
     margin-right: auto;
     padding: 10px;
     height: 200px;
-    width: 80%;
+    width: 65%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -309,7 +309,7 @@ html, body {
     font-size: 15px;
     color: white;
     text-align: center;
-    padding-top: 30px;
+    padding-top: -25px;
     padding-bottom: 10px;
     font-family: Minecrafter;
     text-shadow: 1px 0 0 #212121, -1px 0 0 #212121, 0 1px 0 #212121, 0 -1px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;

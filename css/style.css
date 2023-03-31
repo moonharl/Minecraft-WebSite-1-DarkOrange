@@ -458,14 +458,14 @@ li {
 }
 
 .butBox {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
 }
 
 .butIcon {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
 }

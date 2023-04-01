@@ -11,6 +11,8 @@
     margin-right: 20%;
     margin-bottom: 40px;
     width: 60%;
+    border-top: white solid 1px;
+    border-bottom: white solide 1px;
 }
 
 .news {

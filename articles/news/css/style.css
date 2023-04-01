@@ -256,6 +256,7 @@ html, body {
 
 .homeBackground {
     background-color: black;
+    background-image: url(https://i.imgur.com/7R8EL5t.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;

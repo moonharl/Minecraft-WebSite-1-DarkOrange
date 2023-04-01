@@ -55,8 +55,6 @@ html, body {
 }
 
 .spacementBar {
-    margin-left: 20%; 
-    margin-right: 20%; 
     width: 100%;
     height: 50px;
 }
@@ -172,8 +170,8 @@ html, body {
     float: center; 
     text-align: center;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 20%; 
+    margin-right: 20%;
     padding: 10px;
     min-height: 1000px;
     width: 80%;

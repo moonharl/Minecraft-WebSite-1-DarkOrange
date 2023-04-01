@@ -182,7 +182,8 @@ html, body {
 
 .whiteBoxImg3 img {
      width: 100%; 
-     height: auto; 
+     height: auto;
+     object-fit: cover;
 }
 
 .whiteButton {
@@ -265,7 +266,8 @@ html, body {
 
 .homeBackground img {
     width: 100%; 
-    height: 500px; 
+    height: 500px;
+    object-fit: cover;
 }
 
 .homeTitle {

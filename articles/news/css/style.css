@@ -182,7 +182,7 @@ html, body {
 }
 
 .news {
-    margin: 20px;
+    margin: 5px;
     margin-top: 35px;
     background-color: white;
 }
@@ -228,7 +228,7 @@ html, body {
 
 .newsDescription {
     margin-top: 8px;
-    padding: 20px;
+    padding: 5px;
     color: black;
     font-family: Monocraft;
 }
@@ -245,10 +245,14 @@ html, body {
     padding-bottom: 10px;
 }
 
-.textCenteredLower {
-    font-size: 20px;
-    color: black;
+.textCenteredLow {
+    font-size: 15px;
+    color: gray;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
     font-family: Monocraft;
+    font-weight: bold;
 }
 
 .textCenteredBold {
@@ -256,7 +260,7 @@ html, body {
     color: black;
     text-align: center;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
     font-family: Monocraft;
     font-weight: bold;
 }

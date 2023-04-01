@@ -181,16 +181,15 @@ html, body {
 }
 
 .whiteButton {
-    border: #000000 solid 2px;
+    border: #000000 solid 5px;
     background-color: black;
     font-family: Monocraft;
     font-weight: bold;
     font-size: 15px;
     text-align: center;
     color: white;
-    padding-top: -12.5px;
-    height: 25px;
-    width: 70px;
+    padding-top: -13px;
+    padding-bottom: 10px;
 }
 
 .textCenteredLower {

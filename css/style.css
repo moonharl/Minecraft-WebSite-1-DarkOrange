@@ -41,17 +41,6 @@ html, body {
     background-size: cover;
 }
 
-.logo {
-    padding-top: 3vh;
-    margin-top: -10px;
-    display: flex;
-    justify-content: center;
-}
-
-.logo img {
-    height: 55px;
-}
-
 .bannerTop a {
     text-decoration: none;
 }
@@ -63,36 +52,6 @@ html, body {
     display: flex;
     justify-content: center;
     margin-top: -150px;
-}
-
-.serverIp {
-    font-size: 0px;
-    font-family: Monocraft;
-    text-align: center;
-    padding: 4px;
-    color: black;
-    font-weight: bolder;
-}
-
-.serverStatus {
-    font-size: 0px;
-    font-weight: bold;
-
-}
-
-.playersOn {
-    font-weight: bold;
-    color: black;
-}
-
-.playersMax {
-    font-weight: bold;
-    color: black;
-}
-
-.serverIpText {
-    font-weight: bold;
-    color: black;
 }
 
 .bar {
@@ -182,45 +141,6 @@ html, body {
     background-repeat: repeat-x;
     background-position: center;
     background-size: contain;
-}
-
-.logoRealm {
-    border-right: #2b2b2b solid 2.5px;
-    background-image: url(../img/none.png);
-    float: left;
-    height: 250px;
-    width: 50%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    border-top-left-radius: 15px;
-}
-
-.homeGallery {
-    margin: 50px;
-    margin-top: 70px;
-    margin-left: 100px;
-    margin-right: 100px;
-}
-
-.textHGtwo {
-    font-size: 30px;
-    color: white;
-    text-align: end;
-    padding-right: 40px;
-    padding-top: 190px;
-    font-family: Monocraft;
-    text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
-}
-
-.textHGone {
-    font-size: 30px;
-    color: white;
-    text-align: end;
-    padding-right: 40px;
-    padding-top: 190px;
-    font-family: Monocraft;
-    text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
 }
 
 .whiteBoxImg1 {

@@ -254,7 +254,7 @@ html, body {
 
 .homeBackground {
     background-color: black;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     padding-left: 100px;

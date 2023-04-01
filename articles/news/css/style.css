@@ -181,8 +181,6 @@ html, body {
 }
 
 .whiteBoxImg3 img {
-     width: 200px; 
-     height: 250px;
      object-fit: cover;
      object-position: center;
 }
@@ -266,8 +264,6 @@ html, body {
 }
 
 .homeBackground img {
-    width: 100%; 
-    height: 500px;
     object-fit: cover;
     object-position: center;
 }

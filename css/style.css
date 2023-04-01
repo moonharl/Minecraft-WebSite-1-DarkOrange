@@ -20,6 +20,7 @@ html, body {
 .containerArticle {
     width: 100%;
     background-color: white;
+}
 
 @font-face {
     font-family: Monocraft;

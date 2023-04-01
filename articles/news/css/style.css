@@ -169,16 +169,15 @@ html, body {
 }
 
 .dialogueBox {
-    background-color: white;
+    float: center; 
+    text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
     min-height: 1000px;
     width: 80%;
-    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
 }
 
 .whiteButton {
@@ -196,9 +195,6 @@ html, body {
 .textCenteredLower {
     font-size: 20px;
     color: black;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
     font-family: Monocraft;
 }
 

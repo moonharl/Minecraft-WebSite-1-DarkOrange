@@ -153,20 +153,6 @@ html, body {
     background-size: cover;
 }
 
-.whiteBoxImg2 {
-    border: #ffffff solid 3px;
-    background-image: url(../img/worldBg.jpg);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-    height: 250px;
-    width: 50%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
 .newsArticle {
     min-height: 1000px;
     font-family: Monocraft;
@@ -197,35 +183,6 @@ html, body {
     height: 50px;
 }
 
-.newsBar {
-    font-size: 10px;
-    padding: 20px;
-    padding-top: 13px;
-    padding-bottom: 5px;
-    background-color: rgb(128, 127, 126);
-}
-
-.newsBar h1 {
-    float: right;
-    margin-top: 8px;
-    color: black;
-    font-family: Monocraft;
-}
-
-.newsTitle {
-    font-size: 16px;
-    padding: 20px;
-    padding-top: 13px;
-    padding-bottom: 5px;
-    background-color: rgb(243, 243, 243);
-}
-
-.newsTitle h1 {
-    margin-top: 8px;
-    color: rgb(128, 127, 126);
-    font-family: Minecrafter;
-}
-
 .newsDescription {
     margin-top: 8px;
     padding: 5px;
@@ -234,8 +191,11 @@ html, body {
 }
 
 .whiteButton {
-    border: #000000 solid 5px;
+    border-top: #000000 solid 2px;
+    border-bottom: #000000 solid 2px;
     background-color: black;
+    width: 75px;
+    height: 50px;
     font-family: Monocraft;
     font-weight: bold;
     font-size: 15px;

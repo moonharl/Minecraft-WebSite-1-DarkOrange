@@ -180,6 +180,11 @@ html, body {
     background-size: cover;
 }
 
+.whiteBoxImg3 img {
+     width: 100%; 
+     height: auto; 
+}
+
 .whiteButton {
     border: #000000 solid 5px;
     background-color: black;
@@ -256,6 +261,11 @@ html, body {
     text-align: center;
     width: 100%;
     height: 500px;
+}
+
+.homeBackground img {
+    width: 100%; 
+    height: 500px; 
 }
 
 .homeTitle {

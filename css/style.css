@@ -17,11 +17,6 @@ html, body {
     width: 100%;
 }
 
-.containerArticle {
-    width: 100%;
-    background-color: white;
-}
-
 @font-face {
     font-family: Monocraft;
     src: url(../font/Monocraft.ttf);

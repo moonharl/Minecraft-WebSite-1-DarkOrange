@@ -309,19 +309,20 @@ html, body {
     box-sizing: border-box;
 }
 
-a.slide__prev,
-.slider::before {
+.slide__prev a,
+.slider__next a {
     text-decoration: none;
     font-size: 20px;
     font-family: Monocraft;
+}
+
+a.slide__prev,
+.slider::before {
     left: 5%;
 }
 
 a.slide__next,
 .slider::after {
-    text-decoration: none;
-    font-size: 20px;
-    font-family: Monocraft;
     right: 5%;
 }
 

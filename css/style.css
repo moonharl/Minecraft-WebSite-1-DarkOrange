@@ -221,7 +221,6 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     display: flex;
-    text-decoration: none;
     align-items: center;
     justify-content: center;
     width: 100%;
@@ -260,6 +259,9 @@ html, body {
     height: 300px;
     margin-right: 0px;
     box-sizing: border-box;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Monocraft;
     background: white;
     transform-origin: center center;
     transform: scale(1);
@@ -275,6 +277,9 @@ html, body {
     height: 300px;
     margin-right: 0px;
     box-sizing: border-box;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Monocraft;
     background-position: center;
     background-image: url(../img/placeholder.jpg);
     transform-origin: center center;

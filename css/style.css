@@ -218,6 +218,8 @@ html, body {
 
 .slider-container {
     background: white;
+    margin-left: auto;
+    margin-right: auto;
     display: block;
     align-items: center;
     justify-content: center;
@@ -454,6 +456,8 @@ li {
 
 .comments {
     background-color: white;
+    background-position: center;
+    background-size: cover;
     width: 100%;
     height: 100%;
 }

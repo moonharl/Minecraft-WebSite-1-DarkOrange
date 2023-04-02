@@ -291,8 +291,8 @@ html, body {
 
 .slide__text {
     width: 100%;
-    height: 60px;
-    background-color: rgba(0, 0, 0, 0.8);
+    height: 65px;
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .slide__prev,
@@ -327,24 +327,6 @@ a.slide__prev,
 a.slide__next,
 .slider::after {
     right: 5%;
-}
-
-.slider::before,
-.slider::after,
-.slide__prev,
-.slide__next {
-    position: absolute;
-    width: 30px;
-    height: 30px;
-    border-top: #6AC34BFF solid 2px;
-    border-right: #6AC34BFF solid 2px;
-    border-bottom: #2A641AFF solid 2px;
-    border-left: #2A641AFF solid 2px;
-    background-color: #3D8428FF;
-    color: white;
-    text-align: center;
-    padding: 3px;
-    box-sizing: border-box;
 }
 
 .slider::before,

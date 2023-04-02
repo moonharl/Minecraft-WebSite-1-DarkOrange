@@ -359,41 +359,14 @@ a.slide__next,
     background-color: #3D8428FF;
 }
 
-.latestNewsImg {
-    border: #000000 solid 1px;
-    background-image: url(../img/placeholder.jpg);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-    height: 260px;
-    width: 75%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-.latestNewsText {
-    font-size: 10px;
-    color: white;
+.sliderTextBold {
+    font-size: 20px;
+    color: black;
     text-align: center;
-    padding-top: -40px;
-    padding-bottom: 10px;
-    font-family: Minecrafter;
-    text-shadow: 1px 0 0 #212121, -1px 0 0 #212121, 0 1px 0 #212121, 0 -1px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
-}
-
-.latestNewsLogo {
-    background-image: url(../img/ER-logo.png);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5px;
-    height: 80px;
-    width: 200px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Monocraft;
+    font-weight: bold;
 }
 
 .homeBackground {

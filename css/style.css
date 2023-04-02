@@ -221,6 +221,7 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     display: flex;
+    text-decoration: none;
     align-items: center;
     justify-content: center;
     width: 100%;

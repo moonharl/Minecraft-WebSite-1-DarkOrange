@@ -510,27 +510,8 @@ footer p {
     padding-top: 5px;
 }
 
-@media screen and (max-width: 1556px) {
-
-    .infoImage img {
-        margin-right: 20vh;
-    }
-
-    .infoServer {
-        margin-left: 20vh;
-    }
-
-}
-
 @media screen and (max-width: 1302px) {
 
-    .infoImage img {
-        margin-right: 10vh;
-    }
-
-    .infoServer {
-        margin-left: 10vh;
-    }
 
     .butBoxDiscord {
         margin-top: -40px;
@@ -544,13 +525,6 @@ footer p {
 
 @media screen and (max-width: 1146px) {
 
-    .infoImage img {
-        margin-right: 5vh;
-    }
-
-    .infoServer {
-        margin-left: 5vh;
-    }
 
     .butBoxDiscord {
         margin-top: -30px;
@@ -605,72 +579,10 @@ footer p {
 
 }
 
-@media screen and (max-width: 860px) {
-
-    .homeGallery {
-        margin: 0px;
-        margin-top: 90px;
-        margin-left: 0px;
-        margin-right: 0px;
-    }
-
-    .textHGtwo {
-        font-size: 30px;
-        color: white;
-        text-align: center;
-        padding-right: 40px;
-        padding-top: 190px;
-        font-family: Monocraft;
-        text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
-    }
-    
-    .textHGone {
-        font-size: 30px;
-        color: white;
-        text-align: center;
-        padding-right: 40px;
-        padding-top: 190px;
-        font-family: Monocraft;
-        text-shadow: 2px 0 0 #212121, -2px 0 0 #212121, 0 2px 0 #212121, 0 -2px 0 #212121, 1px 1px #212121, -1px -1px 0 #212121, 1px -1px 0 #212121, -1px 1px 0 #212121;
-    }
-    
-    .hg1 {
-        border-right: none;
-        float: none;
-        width: 100%;
-        border-top-left-radius: 0px;
-    }
-    
-    .hg2 {
-        border-left: none;
-        float: none;
-        width: 100%;
-        border-top-right-radius: 0px;
-    }
-    
-    .hg3 {
-        border-top: none;
-        border-bottom-left-radius: 0px;
-        border-bottom-right-radius: 0px;
-    }
-
-    .infoImage img {
-        margin-right: 0vh;
-    }
-}
-
 @media screen and (max-width: 780px) {
 
     .butIcon {
         margin-right: 13%;
-    }
-
-    .infoImage img {
-        margin-right: 0vh;
-    }
-
-    .infoServer {
-        margin-left: 0vh;
     }
 
     .menu li {
@@ -686,14 +598,6 @@ footer p {
         margin-right: 10%;
     }
 
-    .infoImage {
-        float: center;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-
     .menu {
         margin-top: -100px;
     }
@@ -705,10 +609,6 @@ footer p {
 
     .menu a{
         font-size: 10px;
-    }
-    
-    .bannermiddle {
-        width: 100%;
     }
 
     .comments{
@@ -729,14 +629,6 @@ footer p {
 @media screen and (max-width: 560px) {
     .butIcon {
         margin-right: 5%;
-    }
-
-    .infoImage {
-        float: none;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 65%;
     }
 
 }

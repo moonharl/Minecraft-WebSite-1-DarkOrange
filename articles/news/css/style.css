@@ -193,11 +193,6 @@ html, body {
     border-top: #000000 solid 2px;
     border-bottom: #000000 solid 2px;
     background-color: black;
-    position: absolute;
-    left: 50%;
-    margin-left: -50px;
-    top: -15px;
-    margin-top: -15px;
     width: 60px;
     height: 30px;
     font-family: Monocraft;

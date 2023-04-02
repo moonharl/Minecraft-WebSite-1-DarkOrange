@@ -281,11 +281,14 @@ html, body {
     scroll-snap-align: center;
 }
 
-.slide__text {
+.slide__textBg {
     width: 100%;
-    height: 30px;
-    background-color: gray;
-    opacity: 0.5;
+    height: 60px;
+    background-color: #2E2E2E;
+    opacity: 0.4;
+}
+
+.slide__text {
     font-size: 20px;
     font-weight: bold;
     font-family: Monocraft;

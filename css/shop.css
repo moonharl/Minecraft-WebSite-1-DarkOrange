@@ -11,8 +11,8 @@
     margin-bottom: 40px;
     border-radius: 0px;
     width: 80%;
-    border-top: solid 1px white;
-    border-bottom: solid 0px white;
+    border-top: solid 0px black;
+    border-bottom: solid 1px white;
 }
 
 .articleTitle {

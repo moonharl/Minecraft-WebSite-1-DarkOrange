@@ -214,6 +214,7 @@ html, body {
     padding-bottom: 20px;
     font-family: Monocraft;
     font-weight: bold;
+    opacity: 1;
 }
 
 .slider-container {
@@ -361,6 +362,7 @@ a.slide__next,
 
 .slider__navlink {
     display: inline-block;
+    opacity: 1;
     height: 15px;
     width: 15px;
     border-radius: 0%;

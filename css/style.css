@@ -119,6 +119,33 @@ html, body {
     color: white;
 }
 
+.homeBackground {
+    background-image: url(../img/worldBg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    width: 100%;
+    height: 500px;
+}
+
+.homeTitle {
+    padding-top: 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Monocraft;
+}
+
+.homeText {
+    padding-top: 10px;
+    color: white;
+    font-size: 15px;
+    font-family: Monocraft;
+}
+
 .breakUp {
     height: 128px;
     width: 100%;
@@ -360,6 +387,12 @@ a.slide__next,
     background-color: #3D8428FF;
 }
 
+.sliderBar {
+    background-color: white;
+    width: 100%;
+    height: 30px;
+}
+
 .sliderTextBold {
     font-size: 20px;
     color: black;
@@ -368,57 +401,6 @@ a.slide__next,
     padding-bottom: 20px;
     font-family: Monocraft;
     font-weight: bold;
-}
-
-.homeBackground {
-    background-image: url(../img/worldBg1.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    padding-left: 100px;
-    padding-right: 100px;
-    text-align: center;
-    width: 100%;
-    height: 500px;
-}
-
-.homeTitle {
-    padding-top: 40px;
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
-    font-family: Monocraft;
-}
-
-.homeText {
-    padding-top: 10px;
-    color: white;
-    font-size: 15px;
-    font-family: Monocraft;
-}
-
-.middleSection {
-    display: block;
-    margin-top: 60px; 
-    margin-left: auto; 
-    margin-right: auto;
-    margin-bottom: 40px; 
-    width: 60%;
-    background-color: white;
-    height: 500px;
-}
-
-.bannermiddle {
-    background-size: contain;
-    background-position: center;
-    height: 100%;
-    padding-top: 40px;
-}
-
-.infoServer {
-    text-align: center;
-    font-family: Monocraft;
-    font-size: 18px;
 }
 
 li {

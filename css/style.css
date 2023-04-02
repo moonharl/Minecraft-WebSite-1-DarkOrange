@@ -284,6 +284,7 @@ html, body {
 .slide a,
 .slide1 a {
     text-decoration: none;
+    text-align: center;
     font-size: 20px;
     font-family: Monocraft;
 }

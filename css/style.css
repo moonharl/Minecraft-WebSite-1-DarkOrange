@@ -221,12 +221,34 @@ html, body {
     font-family: Monocraft;
     font-weight: bold;
 }
+
+.slider-container {
+    background: linear-gradient(149deg, rgb(247, 0, 255) 0%, rgb(255, 145, 0) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.slider {
+    width: 100%;
+    max-width: 600px;
+    height: 400px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+}
+
+.slides {
     display: flex;
     overflow-x: scroll;
     position: relative;
     scroll-behavior: smooth;
     scroll-snap-type: x mandatory;
 }
+
 .slide:nth-of-type(even) {
     background-color: rgb(250, 246, 212);
 }
@@ -255,6 +277,26 @@ html, body {
 .slide a {
     background: none;
     border: none;
+}
+
+.slide__prev,
+.slide__next {
+    position: absolute;
+    top: 48%;
+    width: 35px;
+    height: 35px;
+    border: solid black;
+    border-width: 0 4px 4px 0;
+    padding: 3px;
+    box-sizing: border-box;
+}
+
+.slider::before,
+.slider::after {
+  content: '';
+  z-index: 1;
+  background: none;
+  pointer-events: none;
 }
 
 .latestNewsImg {

@@ -64,6 +64,7 @@ html, body {
 }
 
 .menu {
+    position: fixed;
     margin-top: -80px;
 }
 

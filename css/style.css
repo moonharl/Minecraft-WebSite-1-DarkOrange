@@ -218,7 +218,7 @@ html, body {
 
 .slider-container {
     background: white;
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: center;
     width: 90%;
@@ -272,6 +272,7 @@ html, body {
     height: 400px;
     margin-right: 0px;
     box-sizing: border-box;
+    background-position: center;
     background-image: url(../img/placeholder.jpg);
     transform-origin: center center;
     transform: scale(1);
@@ -455,9 +456,6 @@ li {
     background-color: white;
     width: 100%;
     height: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 }
 
 .co {

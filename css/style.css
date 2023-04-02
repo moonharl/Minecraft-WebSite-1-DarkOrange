@@ -310,6 +310,16 @@ html, body {
     box-sizing: border-box;
 }
 
+a.slide__prev,
+.slider::before {
+    left: 5%;
+}
+
+a.slide__next,
+.slider::after {
+    right: 5%;
+}
+
 .slider::before,
 .slider::after,
 .slide__prev,
@@ -331,18 +341,17 @@ html, body {
 
 .slider::before,
 .slider::after {
-  content: '';
   z-index: 1;
-  background: none;
   pointer-events: none;
 }
 
 .slider__nav {
     box-sizing: border-box;
+    border-top: rgba(0, 0, 0, 0.8) solid 5px;
     background-color: rgba(0, 0, 0, 0.8);
     position: absolute;
     width: 100%;
-    bottom: 5%;
+    bottom: 0%;
     text-align: center;
 }
 
@@ -350,8 +359,8 @@ html, body {
     display: inline-block;
     margin-right: auto;
     margin-left: auto;
-    height: 15px;
-    width: 15px;
+    height: 10px;
+    width: 10px;
     border-radius: 0%;
     background-color: white;
     margin: 0 10px 0 10px;

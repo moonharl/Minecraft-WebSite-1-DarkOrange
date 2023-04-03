@@ -34,7 +34,7 @@ html, body {
     image-rendering: pixelated;
     bottom: -30px;
     opacity: 0.7;
-    animation: bubble 15s ease-in-out infinite,
+    animation: bubble 45s ease-in-out infinite,
     sideWays 4s ease-in-out infinite alternate;
 }
 

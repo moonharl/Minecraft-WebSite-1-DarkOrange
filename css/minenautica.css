@@ -405,6 +405,8 @@ html, body {
     width: 60%;
     background-color: #EBEBEB;
     height: 500px;
+    position: static;
+    z-index: 1;
 }
 
 .bannermiddle {
@@ -412,12 +414,6 @@ html, body {
     background-position: center;
     height: 100%;
     padding-top: 40px;
-}
-
-.infoServer {
-    text-align: center;
-    font-family: Monocraft;
-    font-size: 18px;
 }
 
 li {

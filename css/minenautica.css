@@ -405,8 +405,6 @@ html, body {
     width: 60%;
     background-color: #EBEBEB;
     height: 500px;
-    position: static;
-    z-index: 1;
 }
 
 .bannermiddle {

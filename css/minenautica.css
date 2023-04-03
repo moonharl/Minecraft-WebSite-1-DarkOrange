@@ -30,7 +30,7 @@ html, body {
 
 .wrapper span:nth-child(1) {
     left: 0;
-    animation-delay: .6s;
+    animation-delay: 6s;
 }
 
 .wrapper span:nth-child(2) {

@@ -14,26 +14,27 @@ html, body {
     background-size: 256px;
 }
 
-.bubbles{
-    position:absolute;
-    width:100%;
+.bubbles {
+    position: absolute;
+    width: 100%;
     height: 100%;
-    z-index:0;
-    overflow:hidden;
-    top:0;
-    left:0;
+    z-index: 0;
+    overflow: hidden;
+    top: 0;
+    left: 0;
 }
 
-.bubble{
+.bubble {
     position: absolute;
-    bottom:-100px;
-    width:40px;
-    height: 40px;background-image: url(../img/minenautica/bubble.png);
+    bottom: -100px;
+    width: 20px;
+    height: 20px;
+    background-image: url(../img/minenautica/bubble.png);
     background-repet: no-repeat;
     background-position: center;
     background-size: contain;
     image-rendering: pixelated;
-    opacity:0.7;
+    opacity: 0.8;
     animation: rise 10s infinite ease-in;
 }
 
@@ -61,8 +62,8 @@ html, body {
 }
 
 .bubble:nth-child(4){
-  width:80px;
-  height:80px;
+  width:60px;
+  height:60px;
   left:50%;
   animation-duration:11s;
   animation-delay:0s;
@@ -125,6 +126,7 @@ html, body {
     transform:translate(100px);
   }
   100%{
+    opacity: 0;
     bottom:1080px;
     transform:translateX(-200px);
   }

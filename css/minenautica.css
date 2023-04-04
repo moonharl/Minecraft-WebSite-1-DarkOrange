@@ -424,8 +424,8 @@ html, body {
     align-items: center;
     grid-template-columns: 1fr 1fr 1fr; 
     column-gap: 10px;
-    padding-right: 50%;
-    padding-left: 50%;
+    padding-right: 30%;
+    padding-left: 30%;
     width: 100%;
     height: 350px;
 }
@@ -442,7 +442,7 @@ html, body {
     width: 100%;
     height: 100%;
     border: white solid 1px;
-    background-image: url(../img/placeholder.jpg);
+    background-image: url(../img/minenautica/minenauticaBg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;

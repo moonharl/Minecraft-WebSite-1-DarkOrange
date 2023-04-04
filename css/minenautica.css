@@ -421,6 +421,7 @@ html, body {
 
 .invisibleBox {
     display: flex;
+    align-items:center;
     padding-right: 50%;
     padding-left: 50%;
     width: 100%;
@@ -428,10 +429,8 @@ html, body {
 }
 
 .invisibleBoxText {
-    flex: 33.33%;
-    padding: 5px;
-    width: 150px;
-    height: 150px;
+    width: 50%;
+    height: 50%;
     text-align: center;
     color: white;
     font-weight: bold;
@@ -440,15 +439,13 @@ html, body {
 }
 
 .invisibleBoxImg {    
-    flex: 33.33%;
-    padding: 5px;
-    width: 150px;
-    height: 150px;
+    width: 50%;
+    height: 50%;
     border: white solid 1px;
     background-image: url(../img/minenautica/minenauticaBg.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
 }
 
 li {

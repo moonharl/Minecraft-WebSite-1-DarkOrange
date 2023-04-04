@@ -441,6 +441,7 @@ html, body {
 .invisibleBoxImg {    
     width: 50%;
     height: 50%;
+    background-image: url(../img/minenautica/minenauticaBg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;

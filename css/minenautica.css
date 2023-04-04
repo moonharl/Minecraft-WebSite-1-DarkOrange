@@ -423,7 +423,7 @@ html, body {
     display: grid;
     align-items: center;
     grid-template-columns: 1fr 1fr 1fr; 
-    column-gap: 5px;
+    column-gap: 15px;
     padding-left: 50%;
     text-align: center;
     width: 100%;
